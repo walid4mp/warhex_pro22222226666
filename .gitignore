@@ -1,0 +1,13 @@
+node_modules
+coverage
+dist
+build
+.playwright
+playwright-report
+*.log
+.env
+*.sqlite
+.DS_Store
+node_modules
+railway.json
+*.log
